@@ -46,11 +46,11 @@ GLaDOS家的优惠活动非常良心，新账号注册一段时间后基本都�
 
 - 国内环境拉取指令（带代理）
 ```
-ql repo https://ghproxy.com/https://github.com/hennessey-v/GlaDOS_Checkin_ql.git "checkin.py" "backUp|assets|README.md" "sendNotify.py"
+ql repo https://ghproxy.com/https://github.com/ABCDyang/GlaDOS_Checkin_ql.git "checkin.py" "backUp|assets|README.md" "sendNotify.py"
 ```
 - 国外环境拉取指令
 ```
-ql repo https://github.com/hennessey-v/GlaDOS_Checkin_ql.git "checkin.py" "backUp|assets|README.md" "sendNotify.py"
+ql repo https://github.com/ABCDyang/GlaDOS_Checkin_ql.git "checkin.py" "backUp|assets|README.md" "sendNotify.py"
 ```
 ## 四、运行脚本查看运行结果
 
